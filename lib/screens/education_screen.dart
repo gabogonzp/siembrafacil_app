@@ -610,7 +610,7 @@ class _EducationScreenState extends State<EducationScreen> with SingleTickerProv
                                               Icon(Icons.book, color: Color(0xFF2D5016)),
                                               SizedBox(width: 8),
                                               Text(
-                                                'Cómo Interpretar los Datos del Sensor',
+                                                'Cómo interpretar los datos',
                                                 style: TextStyle(
                                                   fontSize: 18,
                                                   fontWeight: FontWeight.bold,
